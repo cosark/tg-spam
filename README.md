@@ -40,6 +40,10 @@ TG-Spam can also run as a server, providing a simple HTTP API to check messages 
 
 **Install guide for non-technical users is available [here](/INSTALL.md)**
 
+## One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/TG-Spam/)
+
 ## Configuration
 
 All the configuration is done via environment variables or command line arguments. Out of the box, the bot has reasonable defaults, so user can run it without much hassle with just a couple of mandatory parameters.
